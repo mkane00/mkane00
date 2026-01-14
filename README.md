@@ -41,6 +41,6 @@ Data analytics professional with 8+ years of experience supporting healthcare an
 ## Portfolio Projects
 | Project | Description | Tools | Repo |
 | --- | --- | --- | --- |
-| **Instacart Grocery Basket Analysis** | Customer segmentation analysis to identify purchasing patterns and customer groups | Python (Pandas, Numpy)| [View](...) |
+| **Instacart Grocery Basket Analysis** | Customer segmentation analysis to identify purchasing patterns and customer groups | Python (Pandas, Numpy)| [View][View](https://github.com/mkane00/instacart-grocery-basket-analysis) |
 | **Rockbuster Stealth Market Analysis**| Market opportunities analysis to support the launching of new services online - Storytelling | SQL, DB Dictionary | [View](...) |
 | **Healthcare Staffing Demand Analysis** | Staffing demand in the U.S during the Flu season - Descriptive analysis | Excel, Tableau | [View](...) |
