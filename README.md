@@ -2,7 +2,8 @@
 
 ## 👋 About Me
 Operations & Data Analyst | Bilingual (English–Spanish)
-Data analytics professional with 8+ years of experience supporting healthcare and service operations through advanced analytics and performance reporting. Proficient in Python, SQL, Tableau, and data visualization, with growing experience applying analytical and data science techniques to extract insights from complex datasets. Strong communicator in English and Spanish, experienced in collaborating with technical teams to deliver data-driven solutions within privacy and compliance standards.
+Data analytics professional with 8+ years supporting healthcare and service operations, with a background in marketing. I use Python, SQL, Tableau, and data visualization to turn complex datasets into clear insights and performance reporting—while working within privacy and compliance standards. 
+Born and raised in Colombia, I moved to the U.S. after college. Dog lover + travel fan. Fun fact: I plan trips in spreadsheets.
 <!--
 **mkane00/mkane00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
