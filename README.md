@@ -45,6 +45,6 @@ Data analytics professional with 8+ years supporting healthcare and service oper
 | **Rockbuster Stealth Market Analysis**| Market opportunities analysis to support the launching of new services online - Storytelling | SQL, DB Dictionary | [View](https://github.com/mkane00/rockbuster-stealth-market-analysis) |
 | **Healthcare Staffing Demand Analysis** | Staffing demand in the U.S during the Flu season - Descriptive analysis | Excel, Tableau | [View](https://github.com/mkane00/healthcare-staffing-demand-analysis) |
 | **Video Game Sales Analysis** | Descriptive analysis of global video game sales trends. | Excel | [View](https://github.com/mkane00/video-game-sales-analysis) |
-| Anti-Money Laundering Analysis | Predictive and ethical analysis for fraud detection. | Python, Time Series | [View](https://github.com/mkane00/anti-money-laundering-analysis) |
+| **Anti-Money Laundering Analysis** | Predictive and ethical analysis for fraud detection. | Python, Time Series | [View](https://github.com/mkane00/anti-money-laundering-analysis) |
 | Exploratory Data Analysis Project | Open-ended analysis using real-world data. | Python | [View](https://github.com/mkane00/exploratory-data-analysis-project) |
 
