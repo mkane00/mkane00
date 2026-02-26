@@ -2,7 +2,8 @@
 
 ## 👋 About Me
 Operations & Data Analyst | Bilingual (English–Spanish)
-Data analytics professional with 8+ years supporting healthcare and service operations, with a background in marketing. I use Python, SQL, Tableau, and data visualization to turn complex datasets into clear insights and performance reporting—while working within privacy and compliance standards. Born and raised in Colombia and now based in Denver, Colorado. Dog lover and travel fan.   https://www.linkedin.com/in/mary-kane-gonzalez/
+Data analytics professional with 8+ years supporting healthcare and service operations, with a background in marketing. I use Python, SQL, Tableau, and data visualization to turn complex datasets into clear insights and performance reporting—while working within privacy and compliance standards. Born and raised in Colombia and now based in Denver, Colorado. Dog lover and travel fan.  
+LinkedIn Profile https://www.linkedin.com/in/mary-kane-gonzalez/
 <!--
 **mkane00/mkane00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
