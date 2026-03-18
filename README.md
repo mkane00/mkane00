@@ -10,13 +10,6 @@ Bilingual Data Analyst (English/Spanish) with 8+ years of experience supporting 
 - Domain strengths: healthcare operations, service performance, compliance-aware environments
 
 ## Featured Projects
-- Denver Airbnb Market Analysis — Python + Tableau
-- Instacart Grocery Basket Analysis — Python + pandas
-- Rockbuster Market Analysis — SQL
-- Healthcare Staffing Demand Analysis — Excel + Tableau
-  
-
-## Featured Projects
 
 | Project | Tools | What it shows |
 |---|---|---|
