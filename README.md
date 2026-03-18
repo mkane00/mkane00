@@ -1,32 +1,30 @@
-# Mary Kane - Data Analyst
+# Mary Kane | Data Analyst
 
-Bilingual Data Analyst (English/Spanish) with 8+ years of experience supporting healthcare and service operations. I use Python, SQL, Tableau, and Excel to clean data, analyze trends, build dashboards, and translate findings into business decisions.
+Bilingual Data Analyst (English/Spanish) with 8+ years of experience in healthcare and service operations. I use Python, SQL, Tableau, and Excel to clean data, analyze trends, build dashboards, and communicate insights that support better business decisions.
 
-## Core Skills
-- Python: pandas, NumPy, data cleaning, EDA
+## Technical Skills
+- Python: pandas, NumPy, exploratory data analysis, data cleaning
 - SQL: joins, aggregations, business queries
-- Tableau & Excel: dashboards, KPI reporting, storytelling
+- Tableau & Excel: dashboards, KPI reporting, data storytelling
 - Analytics: segmentation, trend analysis, validation, reporting
-- Domain strengths: healthcare operations, service performance, compliance-aware environments
+- Communication: bilingual stakeholder support, technical/non-technical presentation
 
 ## Featured Projects
 
-| Project | Tools | What it shows |
+| Project | Tools | Focus |
 |---|---|---|
-| denver-airbnb-analysis | Python, Tableau | Pricing trends, geographic patterns, exploratory analysis |
-| instacart-basket-analysis | Python, pandas, NumPy | Customer behavior, segmentation, basket analysis |
-| rockbuster-sql-analysis | SQL | Market expansion, revenue analysis, customer insights |
-| healthcare-staffing-analysis | Excel, Tableau | Forecasting support, public health storytelling |
+| [Denver Airbnb Market Analysis]([View](https://github.com/mkane00/denver-airbnb-exploratory-data-analysis)|) | Python, Tableau | Pricing, demand, neighborhood trends |
+| [Instacart Grocery Basket Analysis]( [View](https://github.com/mkane00/instacart-grocery-basket-analysis) ) | Python, pandas | Customer behavior and segmentation |
+| [Rockbuster Market Analysis]([View](https://github.com/mkane00/rockbuster-stealth-market-analysis)) | SQL | Revenue, customer, and market analysis |
+| [Healthcare Staffing Demand Analysis]( [View](https://github.com/mkane00/healthcare-staffing-demand-analysis)) | Excel, Tableau | Public health and staffing insights |
 
+## What I Bring
+- Strong business context from healthcare and operations
+- Hands-on portfolio work in Python, SQL, Tableau, and Excel
+- Clear, bilingual communication of analytical findings
+- Growing portfolio focused on practical business problems
 
-## Portfolio Projects
-| Project | Description | Tools | Repo |
-| --- | --- | --- | --- |
-| **Instacart Basket Analysis** | Customer segmentation analysis to identify purchasing patterns and customer groups | Python (Pandas, Numpy)| [View](https://github.com/mkane00/instacart-grocery-basket-analysis) |
-| **Denver Airbnb Analysis** | Identifying pricing and demand patterns of Airbnb in Denver Colorado | Python, Tableau| [View](https://github.com/mkane00/denver-airbnb-exploratory-data-analysis)|
-| **Rockbuster SQL Analysis**| Market opportunities analysis to support the launching of new services online - Storytelling | SQL, DB Dictionary | [View](https://github.com/mkane00/rockbuster-stealth-market-analysis) |
-| **Healthcare Staffing Analysis** | Staffing demand in the U.S during the Flu season - Descriptive analysis | Excel, Tableau | [View](https://github.com/mkane00/healthcare-staffing-demand-analysis) |
-| **Video Game Sales Analysis** | Descriptive analysis of global video game sales trends. | Excel | [View](https://github.com/mkane00/video-game-sales-analysis) |
-| **Anti-Money Laundering Analysis** | Predictive and ethical analysis for fraud detection. | Time Series and Data Ethics | [View](https://github.com/mkane00/anti-money-laundering-analysis) |
+## Connect With Me
+- [www.linkedin.com/in/mary-kane-gonzalez)
 
 
