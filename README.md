@@ -47,5 +47,5 @@ LinkedIn Profile https://www.linkedin.com/in/mary-kane-gonzalez/
 | **Healthcare Staffing Demand Analysis** | Staffing demand in the U.S during the Flu season - Descriptive analysis | Excel, Tableau | [View](https://github.com/mkane00/healthcare-staffing-demand-analysis) |
 | **Video Game Sales Analysis** | Descriptive analysis of global video game sales trends. | Excel | [View](https://github.com/mkane00/video-game-sales-analysis) |
 | **Anti-Money Laundering Analysis** | Predictive and ethical analysis for fraud detection. | Time Series and Data Ethics | [View](https://github.com/mkane00/anti-money-laundering-analysis) |
-| **Exploratory Data Analysis Project** | Open-ended analysis using real-world data from Airbnb in Denver Colorado | Python | [View](https://github.com/mkane00/denver-airbnb-exploratory-data-analysis)|
+| **Denver's Airbnb Market Analysis** | Identifying pricing and demand patterns of Airbnb in Denver Colorado | Python, Tableau| [View](https://github.com/mkane00/denver-airbnb-exploratory-data-analysis)|
 
