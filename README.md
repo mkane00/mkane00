@@ -15,8 +15,8 @@ Bilingual Data Analyst (English/Spanish) with 8+ years of experience in healthca
 |---|---|---|
 |[Denver Airbnb Analysis](https://github.com/mkane00/Denver-Airbnb-Market-Analysis)| Python, Tableau | Pricing, demand, neighborhood trends |
 |[Instacart Grocery Basket Analysis](https://github.com/mkane00/instacart-grocery-basket-analysis)| Python, pandas | Customer behavior and segmentation |
-| [Rockbuster Market Analysis]([View](https://github.com/mkane00/rockbuster-stealth-market-analysis)) | SQL | Revenue, customer, and market analysis |
-| [Healthcare Staffing Demand Analysis]( [View](https://github.com/mkane00/healthcare-staffing-demand-analysis)) | Excel, Tableau | Public health and staffing insights |
+|[Rockbuster Market Analysis](https://github.com/mkane00/rockbuster-stealth-market-analysis)| SQL | Revenue, customer, and market analysis |
+|[Healthcare Staffing Demand Analysis](https://github.com/mkane00/healthcare-staffing-demand-analysis)| Excel, Tableau | Public health and staffing insights |
 
 ## What I Bring
 - Strong business context from healthcare and operations
