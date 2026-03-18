@@ -16,6 +16,16 @@ Bilingual Data Analyst (English/Spanish) with 8+ years of experience supporting 
 - Healthcare Staffing Demand Analysis — Excel + Tableau
   
 
+## Featured Projects
+
+| Project | Tools | What it shows |
+|---|---|---|
+| Denver Airbnb Market Analysis | Python, Tableau | Pricing trends, geographic patterns, exploratory analysis |
+| Instacart Grocery Basket Analysis | Python, pandas, NumPy | Customer behavior, segmentation, basket analysis |
+| Rockbuster Market Analysis | SQL | Market expansion, revenue analysis, customer insights |
+| Healthcare Staffing Demand Analysis | Excel, Tableau | Forecasting support, public health storytelling |
+
+
 ## Portfolio Projects
 | Project | Description | Tools | Repo |
 | --- | --- | --- | --- |
