@@ -13,11 +13,11 @@ Bilingual Data Analyst (English/Spanish) with 8+ years of experience in healthca
 
 | Project | Tools | Focus |
 |--------|------|------|
-| [PaySim Fraud Risk Analysis](#) | Python, Tableau | Fraud detection, risk signal engineering, and transaction monitoring |
-| [Denver Airbnb Analysis](#) | Python, Tableau | Pricing optimization, demand trends, and neighborhood insights |
-| [Instacart Basket Analysis](#) | Python (Pandas) | Customer segmentation and purchasing behavior analysis |
-| [Rockbuster Market Analysis](#) | SQL | Data-driven market expansion and revenue insights |
-| [Public Health Staffing Analysis](#) | Excel, Tableau | Workforce planning and public health resource optimization |
+| [PaySim Fraud Risk Analysis](https://github.com/mkane00/paysim-fraud-risk-analysis) | Python, Tableau | Fraud detection, risk signal engineering, and transaction monitoring |
+| [Denver Airbnb Analysis](https://github.com/mkane00/your-airbnb-repo) | Python, Tableau | Pricing optimization, demand trends, and neighborhood insights |
+| [Instacart Basket Analysis](https://github.com/mkane00/your-instacart-repo) | Python (Pandas) | Customer segmentation and purchasing behavior analysis |
+| [Rockbuster Market Analysis](https://github.com/mkane00/your-rockbuster-repo) | SQL | Data-driven market expansion and revenue insights |
+| [Public Health Staffing Analysis](https://github.com/mkane00/your-healthcare-repo) | Excel, Tableau | Workforce planning and public health insights |
 
 ## What I Bring
 - Strong business context from healthcare and operations
