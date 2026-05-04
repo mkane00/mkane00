@@ -13,7 +13,7 @@ Bilingual Data Analyst (English/Spanish) with 8+ years of experience in healthca
 
 | Project | Tools | Focus |
 |--------|------|------|
-| [https://github.com/mkane00/paysim-fraud-risk-analysis](#) | Python, Tableau | Fraud detection, risk prioritization, and anomaly identification in financial transactions |
+| [PaySim Fraud Risk Analysis](#) | Python, Tableau | Fraud detection, risk signal engineering, and transaction monitoring |
 | [Denver Airbnb Analysis](#) | Python, Tableau | Pricing optimization, demand trends, and neighborhood insights |
 | [Instacart Basket Analysis](#) | Python (Pandas) | Customer segmentation and purchasing behavior analysis |
 | [Rockbuster Market Analysis](#) | SQL | Data-driven market expansion and revenue insights |
