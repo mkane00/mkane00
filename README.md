@@ -26,6 +26,7 @@ Bilingual Data Analyst (English/Spanish) with 8+ years of experience in healthca
 - Growing portfolio focused on practical business problems
 
 ## Connect With Me
-- www.linkedin.com/in/mary-kane-gonzalez
+www.linkedin.com/in/marykaneanalytics
 
+  
 
