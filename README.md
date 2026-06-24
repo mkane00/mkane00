@@ -18,7 +18,7 @@ I am a Data Analyst with 8+ years of experience in healthcare operations. I use 
 | [Healthcare Staffing Demand](https://github.com/mkane00/public-health-staffing-analysis) | Excel, Tableau | Workforce planning and public health insights |
 | [Denver Airbnb Analysis](https://github.com/mkane00/denver-airbnb-analysis) | Python, Tableau | Pricing optimization, demand trends, and neighborhood insights |
 | [Instacart Basket Analysis](https://github.com/mkane00/instacart-basket-analysis) | Python (Pandas) | Customer segmentation and purchasing behavior analysis |
-| [Rockbuster Market Analysis](https://github.com/mkane00/your-rockbuster-repo) | SQL | Data-driven market expansion and revenue insights |
+| [Rockbuster Market Analysis](https://github.com/mkane00/video-game-sales-analysis) | SQL | Data-driven market expansion and revenue insights |
 
 
 ## What I Bring
