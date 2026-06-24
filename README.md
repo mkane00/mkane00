@@ -16,7 +16,7 @@ I am a Data Analyst with 8+ years of experience in healthcare operations. I use 
 | [Healthcare Operations Intelligence](https://github.com/mkane00/healthcare-operations-intelligence) | SQL, Tableau | Patient flow analysis, wait time optimization, staffing alignment, and healthcare operational performance analytics |
 | [PaySim Fraud Risk Analysis](https://github.com/mkane00/paysim-fraud-risk-analysis) | Python, Tableau | Fraud detection, risk signal engineering, and transaction monitoring |
 | [Healthcare Staffing Demand](https://github.com/mkane00/public-health-staffing-analysis) | Excel, Tableau | Workforce planning and public health insights |
-| [Denver Airbnb Analysis](https://github.com/mkane00/your-airbnb-repo) | Python, Tableau | Pricing optimization, demand trends, and neighborhood insights |
+| [Denver Airbnb Analysis](https://github.com/mkane00/denver-airbnb-analysis) | Python, Tableau | Pricing optimization, demand trends, and neighborhood insights |
 | [Instacart Basket Analysis](https://github.com/mkane00/your-instacart-repo) | Python (Pandas) | Customer segmentation and purchasing behavior analysis |
 | [Rockbuster Market Analysis](https://github.com/mkane00/your-rockbuster-repo) | SQL | Data-driven market expansion and revenue insights |
 
