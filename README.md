@@ -1,6 +1,6 @@
 # Mary Kane | Data Analyst
 
-I am a Data Analyst with 8+ years of experience in healthcare operations. I use Python, SQL, Tableau, and Excel to clean data, analyze trends, build dashboards, and communicate insights that support better business decisions.
+I am a Data Analyst with 9 years of experience in healthcare operations. I use Python, SQL, Tableau, and Excel to clean data, analyze trends, build dashboards, and communicate insights that support better business decisions.
 
 ## Technical Skills
 - Python: pandas, NumPy, exploratory data analysis, data cleaning
