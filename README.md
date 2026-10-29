@@ -4,7 +4,7 @@ I am a Data Analyst with 9 years of experience in healthcare operations. I use P
 
 ## Technical Skills
 - [Python](notebooks/03_Gold_Fraud_Signals.pdf): pandas, NumPy, exploratory data analysis, data cleaning
-- [SQL](sql/healthcare_operations_queries.sql): joins, aggregations, business queries
+- [SQL](https://github.com/mkane00/healthcare-operations-intelligence/blob/main/sql/healthcare_operations_queries.sql): joins, aggregations, business queries
 - [Tableau](https://public.tableau.com/app/profile/marykane.analytics/vizzes) & Excel: dashboards, KPI reporting, data storytelling
 - Analytics: segmentation, trend analysis, validation, reporting
 - Communication: bilingual stakeholder support, technical/non-technical presentation
